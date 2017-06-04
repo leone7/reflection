@@ -25,4 +25,4 @@ you can be sure that you can always get back to the commit point.
 Now that you have your workspace set up, what do you want to try using Git for?
 enjoy my life! :)
 
-here is the change git, can you find me?! :)))))  Again changing it here. !
+here is the change git, can you find me?! :))))) 
